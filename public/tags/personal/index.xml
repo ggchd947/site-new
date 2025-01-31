@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on ggchd</title>
+    <link>http://localhost:1313/tags/personal/</link>
+    <description>Recent content in Personal on ggchd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2024 11:10:43 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autobio</title>
+      <link>http://localhost:1313/autobio/</link>
+      <pubDate>Wed, 10 Apr 2024 11:10:43 -0700</pubDate>
+      <guid>http://localhost:1313/autobio/</guid>
+      <description>This is my autobio.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 10 Apr 2024 10:46:52 -0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Here is some content. This is all in Markdown.&#xA;Introduction One morning, when Gregor Samsa woke from troubled dreams, he found&#xA;My Heading He lay on his armor-like back, and if he lifted his head a little&#xA;My Subheading A colleciton of textile samples lay spread out on the table&#xA;List item asfasdf asdfasdf Dictionary Dictionary definitions asdf asdf </description>
+    </item>
+  </channel>
+</rss>

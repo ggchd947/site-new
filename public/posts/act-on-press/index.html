@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en-us"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <meta name="description" content="Act on press
+This is a UI design hill I will die on, and it dismays me how often and hard I have had to fight for it.
+Almost all interaction methods have a &ldquo;press&rdquo; and &ldquo;release&rdquo; event associated with them. Whenever possible, you should &ldquo;do the thing&rdquo; when you get the press event instead of waiting for the release event, because it makes the interaction feel substantially more responsive, and it reduces user errors by not allowing the focus to slide out of the hot box between press and release.">  
+
+  <title>
+    
+      Is John Carmack right about UI?
+    
+  </title>
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/" />
+  
+  
+  
+  <link rel="stylesheet" href="/css/main.01273a70fa873b012d056499c16bb47955e0e7526c34edb73f05ca8f99f488ebc323423c6557f93f9b42a41de0448a25ce9a1ab577d0bf61e36eaf52a4979a1d.css" integrity="sha512-ASc6cPqHOwEtBWSZwWu0eVXg51JsNO23PwXKj5n0iOvDI0I8ZVf5P5tCpB3gRIolzpoatXfQv2Hjbq9SpJeaHQ==" />
+  
+</head>
+<body a="auto">
+        <main class="page-content" aria-label="Content">
+            <div class="w">
+<a href="/">..</a>
+
+
+<article>
+    <p class="post-meta">
+        <time datetime="2024-05-08 12:42:30 -0700 PDT">
+            2024-05-08
+        </time>
+    </p>
+
+    <h1>Is John Carmack right about UI?</h1>
+
+    
+
+    <p><strong>Act on press</strong></p>
+<p>This is a UI design hill I will die on, and it dismays me how often and hard I have had to fight for it.</p>
+<p>Almost all interaction methods have a <strong>&ldquo;press&rdquo;</strong> and <strong>&ldquo;release&rdquo;</strong> event associated with them. Whenever possible, you should <strong>&ldquo;do the thing&rdquo;</strong> when you get the press event instead of waiting for the release event, because it makes the interaction feel substantially more responsive, and it reduces user errors by not allowing the focus to slide out of the hot box between press and release.</p>
+<p>Even a <strong>&ldquo;ballistic tap&rdquo;</strong>, where your finger is intentionally bouncing off the button or touch surface, involves several tens of milliseconds delay between the press and release, and most button presses have well over a hundred ms dwell time. There is a delight in interfaces that feel like they respond instantly to your wishes, and the benefit to every single user is often more important than additional niche features.</p>
+<p>Game developers, with simple UI toolkits, tend to get this right more often, but &ldquo;sophisticated&rdquo; app designers will often fight hard against it because it is mostly incompatible with options like interactive touch scrolling views, long press menus, and drag and drop.</p>
+<p>Being able to drag scroll a web page or view with interactive controls in it is here to stay, and nets out way better than having to use a separate scroll bar, but there are still tons of fixed position controls that should act on press, and it is good UI design to favor them when possible.</p>
+<p>In the early days of mobile VR, the system keyboard was a dedicated little OpenGL app that responded instantly. With full internalization it became prudent to turn it into a conventional Android app, but the default act-on-release button behavior made it feel noticeably crappier. The design team resisted a push to change it, and insisted on commissioning a user study, which is a corporate politics ploy to bury something. I was irritated at how they tried to use leading questions and tasks, but it still came back one of the clearest slam-dunks I have seen for user testing &ndash; objectively less typos, expressed preference, and interview comments about the act-on-press version feeling &ldquo;crisper&rdquo; and &ldquo;more responsive&rdquo;.</p>
+<p>So, I won that one, but the remaining times I brought it up for the other interfaces, I did not, and you still see act-on-release throughout the Meta VR system interfaces.</p>
+
+</article>
+
+            </div>
+        </main>
+    </body></html>

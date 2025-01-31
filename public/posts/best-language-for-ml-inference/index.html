@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en-us"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <meta name="description" content="@ac_crypto
+There&rsquo;s been a lot of talk about &ldquo;optimised&rdquo; inference libraries written in rust (e.g. candle) or zig (e.g. zml) recently.
+The argument goes that they will be faster for production inference workloads and as a result win in the long term over Python libs like PyTorch.
+I don&rsquo;t buy this. Here&rsquo;s why:
+The bottleneck with inference is not userspace code. It&rsquo;s the stuff running on the accelerators. Your userspace code does need to be written well to ensure that you&rsquo;re  for example managing memory efficiently however the thing that really matters is your kernels.">  
+
+  <title>
+    
+      Best Language for ML Inference
+    
+  </title>
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/" />
+  
+  
+  
+  <link rel="stylesheet" href="/css/main.01273a70fa873b012d056499c16bb47955e0e7526c34edb73f05ca8f99f488ebc323423c6557f93f9b42a41de0448a25ce9a1ab577d0bf61e36eaf52a4979a1d.css" integrity="sha512-ASc6cPqHOwEtBWSZwWu0eVXg51JsNO23PwXKj5n0iOvDI0I8ZVf5P5tCpB3gRIolzpoatXfQv2Hjbq9SpJeaHQ==" />
+  
+</head>
+<body a="auto">
+        <main class="page-content" aria-label="Content">
+            <div class="w">
+<a href="/">..</a>
+
+
+<article>
+    <p class="post-meta">
+        <time datetime="2024-10-09 08:14:44 -0700 PDT">
+            2024-10-09
+        </time>
+    </p>
+
+    <h1>Best Language for ML Inference</h1>
+
+    
+
+    <h3 id="ac_crypto">@ac_crypto</h3>
+<p>There&rsquo;s been a lot of talk about &ldquo;optimised&rdquo; inference libraries written in rust (e.g. candle) or zig (e.g. zml) recently.</p>
+<p>The argument goes that they will be faster for production inference workloads and as a result win in the long term over Python libs like PyTorch.</p>
+<p>I don&rsquo;t buy this. Here&rsquo;s why:</p>
+<p>The bottleneck with inference is not userspace code. It&rsquo;s the stuff running on the accelerators. Your userspace code does need to be written well to ensure that you&rsquo;re  for example managing memory efficiently however the thing that really matters is your kernels.</p>
+<p>This is why I&rsquo;m really excited about @<strong>tinygrad</strong>. It&rsquo;s written in 100% Python and solves the combinatorial problem you have with libraries like PyTorch where you end up with thousands of handwritten kernels that have to be maintained. Instead, tinygrad requires implementing a small amount of code for each accelerators and generates kernels, using search (currently Beam, moving to MCTS, hoping they move to entropy-based methods eventually) to find the best kernels. tinygrad strikes a nice tradeoff here, staying within the incredible Python ML ecosystem while focusing on the part that is slow: kernels.</p>
+<p>As much as possible (there are obvious exceptions like iOS) I&rsquo;m looking to keep @exolabs in 100% Python too. We&rsquo;ve had many contributors from the wider Python ML ecosystem who were able to easily jump into the codebase and contribute. Also, there are just so many great inference libraries available in Python. Currently exo supports MLX (h/t @awnihannun) and tinygrad (h/t @realGeorgeHotz) but support for PyTorch, JAX and llama.cpp are coming. Different libraries run fast on different devices so exo can leverage the best library for the device it&rsquo;s running on without needing to do the heavy lifting of writing or generating optimised kernels (the libs take care of that).</p>
+<p>When a new model comes out, exo can add support almost instantly since it&rsquo;s built on top of a thriving Python ML ecosystem. Any algorithmic innovations can also be integrated quickly without much effort.</p>
+<p>Personally I love Go and rust so writing everything in Go or rust would be a dream, but the reality is that Python is the obvious choice here. It&rsquo;s cool to see alternative libraries in other languages but I do believe Python will win ML inference.</p>
+
+</article>
+
+            </div>
+        </main>
+    </body></html>

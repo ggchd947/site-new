@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en-us"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <meta name="description" content="MY SOLO WORKFLOW
+
+Make changes to files
+git add . (or git add &lt;files&gt; if I only want to add specific files)
+git commit -m &quot;a message describing the changes&quot;
+git push origin main
+
+MY TEAM WORKFLOW
+
+Update my local main branch with git pull origin main
+Checkout a new branch for the changes I want to make with git switch -c &lt;branchname&gt;
+Make changes to files
+git add .
+git commit -m &quot;a message describing the changes&quot;
+git push origin &lt;branchname&gt; (I push to the new branch name, not main)
+Open a pull request on GitHub/GitLab/Bitbucket to merge my changes into main
+Ask a team member to review my pull request
+Once approved, click the &ldquo;Merge&rdquo; button on GitHub to merge my changes into main
+Delete my feature branch, and repeat with a new branch for the next set of changes
+
+WHAT TO IGNORE (.gitignore)
+Some rules for coding projects:">  
+
+  <title>
+    
+      Git Workflow
+    
+  </title>
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/" />
+  
+  
+  
+  <link rel="stylesheet" href="/css/main.01273a70fa873b012d056499c16bb47955e0e7526c34edb73f05ca8f99f488ebc323423c6557f93f9b42a41de0448a25ce9a1ab577d0bf61e36eaf52a4979a1d.css" integrity="sha512-ASc6cPqHOwEtBWSZwWu0eVXg51JsNO23PwXKj5n0iOvDI0I8ZVf5P5tCpB3gRIolzpoatXfQv2Hjbq9SpJeaHQ==" />
+  
+</head>
+<body a="auto">
+        <main class="page-content" aria-label="Content">
+            <div class="w">
+<a href="/">..</a>
+
+
+<article>
+    <p class="post-meta">
+        <time datetime="2024-06-28 13:51:58 -0700 PDT">
+            2024-06-28
+        </time>
+    </p>
+
+    <h1>Git Workflow</h1>
+
+    
+
+    <h3 id="my-solo-workflow">MY SOLO WORKFLOW</h3>
+<ol>
+<li>Make changes to files</li>
+<li><code>git add .</code> (or <code>git add &lt;files&gt;</code> if I only want to add specific files)</li>
+<li><code>git commit -m &quot;a message describing the changes&quot;</code></li>
+<li><code>git push origin main</code></li>
+</ol>
+<h3 id="my-team-workflow">MY TEAM WORKFLOW</h3>
+<ul>
+<li>Update my local <code>main</code> branch with <code>git pull origin main</code></li>
+<li>Checkout a new branch for the changes I want to make with <code>git switch -c &lt;branchname&gt;</code></li>
+<li>Make changes to files</li>
+<li><code>git add .</code></li>
+<li><code>git commit -m &quot;a message describing the changes&quot;</code></li>
+<li><code>git push origin &lt;branchname&gt;</code> (I push to the <em>new</em> branch name, not <code>main</code>)</li>
+<li>Open a pull request on GitHub/GitLab/Bitbucket to merge my changes into <code>main</code></li>
+<li>Ask a team member to review my pull request</li>
+<li>Once approved, click the &ldquo;Merge&rdquo; button on GitHub to merge my changes into <code>main</code></li>
+<li>Delete my feature branch, and repeat with a new branch for the next set of changes</li>
+</ul>
+<h3 id="what-to-ignore-gitignore">WHAT TO IGNORE (.gitignore)</h3>
+<p>Some rules for coding projects:</p>
+<ol>
+<li>Ignore things that can be <em>generated</em> (e.g. compiled code, minified files, etc.)</li>
+<li>Ignore dependencies (or don&rsquo;t have them in the first place) (e.g. <code>node_modules</code>, <code>venv</code>, <code>packages</code>, etc.)</li>
+<li>Ignore things that are personal or specific to how you like to work (e.g. editor settings)</li>
+<li>Ignore things that are sensitive or dangerous (e.g. <code>.env</code> files, passwords, API keys, etc.)</li>
+</ol>
+
+</article>
+
+            </div>
+        </main>
+    </body></html>
