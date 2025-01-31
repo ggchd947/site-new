@@ -10,9 +10,9 @@ Cope incoming, but it's true and it's not just steel.
 Here's good reading to understand what happened.
 https://americanaffairsjournal.org/2021/08/the-value-of-nothing-capital-versus-growth/
 
-tl;dr it's the same scams I'm al ways complaining about.
+tl;dr it's the same scams I'm always complaining about.
 
-"The separation of asset valuatoins from underlying economic performance is perhaps the most conspicuous feature of the U.S. economy in recent decades"
+"The separation of asset valuations from underlying economic performance is perhaps the most conspicuous feature of the U.S. economy in recent decades"
 
 So no, Donald Trump (of the Truth Social SPAC) isn't going to fix this. Kamala Harris (of the decaying regime) sure isn't going to fix this.
 
