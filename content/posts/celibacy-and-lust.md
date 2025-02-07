@@ -46,6 +46,8 @@ most men's libido is highjacked by their dopaminic fiendish tendencies, like dru
 
 [Lifestyle habits to boost your hormonal profile](https://www.youtube.com/watch?v=ZDKdqqbQ5Gk)
 
+[How to Quit Video Game, Pornography & Social Media Addiction | Dr. Andrew Huberman](https://www.youtube.com/watch?v=XXYNvwrVKdE)
+
 ### Memez
 ![meme 1](/img/dump/meme-1.png)
 
