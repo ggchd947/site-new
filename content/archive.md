@@ -18,3 +18,5 @@ date = 2024-04-10T16:05:05-07:00
 **2025, January - Finished Logarithms**
 
 **2025, February - Finished reading The Economicus**
+
+**2025, February - Finished reading Our Thoughts Determine Our Lives: The Life and Teachings of Elder Thaddeus of Vitovnica**
