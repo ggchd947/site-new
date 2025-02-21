@@ -6,8 +6,15 @@
     <description>Recent content on ggchd</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2024 00:09:34 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 20:25:54 -0800</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two Posts</title>
+      <link>https://example.org/posts/two-posts/</link>
+      <pubDate>Thu, 20 Feb 2025 20:25:54 -0800</pubDate>
+      <guid>https://example.org/posts/two-posts/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://geohot.github.io/blog/jekyll/update/2022/10/13/a-hope.html&#34;&gt;A Hope&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html&#34;&gt;Technology without Industry&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Real Estate</title>
       <link>https://example.org/posts/real-estate/</link>
