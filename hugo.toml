@@ -1,5 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'ggchd'
-
-theme = 'nostyleplease'
+theme = 'no-style-please'
