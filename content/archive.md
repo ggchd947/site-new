@@ -22,3 +22,7 @@ date = 2024-04-10T16:05:05-07:00
 **2025, February - Finished reading Our Thoughts Determine Our Lives: The Life and Teachings of Elder Thaddeus of Vitovnica**
 
 **2025, February - Finished reading Orthodoxy and the Religion of the Future**
+
+**2025, March - Finished reading The Biblical Masculinity Blueprint: A Christian Man's Guide to Attraction, Relationships, and Marriage in a Messed-up World**
+
+
