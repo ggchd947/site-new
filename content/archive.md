@@ -28,3 +28,7 @@ date = 2024-04-10T16:05:05-07:00
 **2025, March - Finished reading On Faith and Works, the Meaning of Baptism, and Predestination (Sermons by Saint Gregory Palamas Book 6)**
 
 **2025, March - Finished reading The Letters of Ignatius**
+
+**2025, March - Finished reading The Epistle of Polycarp to the Philippians**
+
+**2025, March - Finished reading The Martyrdom of Polycarp**
