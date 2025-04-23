@@ -34,3 +34,7 @@ date = 2024-04-10T16:05:05-07:00
 **2025, March - Finished reading The Martyrdom of Polycarp**
 
 **2025, April - Finished reading A Complete Guide to The Divine Liturgy: A Step-by-Step Guide to the Orthodox Liturgy of Saint John Chrysostom**
+
+**2025, April - Finished reading How to Read the Holy Fathers: A Guide for Orthodox Christians**
+
+**2025, April - Finished reading No More Mr. Nice Guy**
