@@ -38,3 +38,5 @@ date = 2024-04-10T16:05:05-07:00
 **2025, April - Finished reading How to Read the Holy Fathers: A Guide for Orthodox Christians**
 
 **2025, April - Finished reading No More Mr. Nice Guy**
+
+**2025, May - Finished reading On the Apostolic Preaching**
