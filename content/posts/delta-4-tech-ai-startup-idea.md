@@ -40,6 +40,7 @@ If we incentivize with pay per use, there will be more seeders than leechers.
 **For training more latency is fine**
 
 *NOTE: whatever you make work for training you get for free for inference.*
+*NOTE: https://youtu.be/Gm0t-kAsHuY?t=16407 - beluga.ai charge $0.50 an hour*
 
 do these and I'll win.
 
