@@ -44,3 +44,11 @@ date = 2024-04-10T16:05:05-07:00
 **2025, May - Finished reading On the Incarnation**
 
 **2025, May - Finished reading On Marriage and Family Life**
+
+**2025, July - Finished reading The Struggle For Virtue: Asceticism in a Modern Secular Society**
+
+**2025, July - Finished reading The Soul After Death: Contemporary "After-Death" Experiences In The Light Of The Orthodox Teaching On The Afterlife**
+
+**2025, July - Finished reading Nihilism The Root of The Revolution of the Modern Age**
+
+**2025, July - Finished reading Orthodox Christian Parenting - Cultivating God's Creation**
