@@ -30,7 +30,7 @@ It literally is just **persistence** and **refusing to give up** and you **succe
 
 ### Smart Contract Security
 *NOTE: Use GitHub & Foundry for audits you only need 1 screen like a laptop*
-1. JS course @ [boot.dev](https://boot.dev)
+1. ~JS course @ [boot.dev](https://boot.dev)~
 2. Read [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) and [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 3. Solidity course @ [CryptoZombies](https://cryptozombies.io/)
 4. Main course @ [Smart Contract Hacking](https://smartcontractshacking.com/)
