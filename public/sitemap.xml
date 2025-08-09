@@ -2,465 +2,465 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/playlists/</loc>
+    <loc>http://localhost:1313/posts/playlists/</loc>
     <lastmod>2025-08-08T22:22:46-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-08-08T22:22:46-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/two-posts/</loc>
+    <loc>http://localhost:1313/posts/two-posts/</loc>
     <lastmod>2025-02-20T20:25:54-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/real-estate/</loc>
+    <loc>http://localhost:1313/posts/real-estate/</loc>
     <lastmod>2024-11-02T00:09:34-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/multiple-interests/</loc>
+    <loc>http://localhost:1313/posts/multiple-interests/</loc>
     <lastmod>2024-10-28T19:31:08-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/breaking-out-of-modernism-programming/</loc>
+    <loc>http://localhost:1313/posts/breaking-out-of-modernism-programming/</loc>
     <lastmod>2024-10-26T04:23:00-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/make-speechify-competitor/</loc>
+    <loc>http://localhost:1313/posts/make-speechify-competitor/</loc>
     <lastmod>2024-10-25T20:17:24-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/the-breaking-point-of-ambition/</loc>
+    <loc>http://localhost:1313/posts/the-breaking-point-of-ambition/</loc>
     <lastmod>2024-10-25T19:54:52-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/learn-guitar/</loc>
+    <loc>http://localhost:1313/posts/learn-guitar/</loc>
     <lastmod>2024-10-23T23:51:01-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/exercise-rotation-resources/</loc>
+    <loc>http://localhost:1313/posts/exercise-rotation-resources/</loc>
     <lastmod>2024-10-17T14:00:18-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/posts-by-luke/</loc>
+    <loc>http://localhost:1313/posts/posts-by-luke/</loc>
     <lastmod>2024-10-09T20:40:35-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/the-value-of-nothing/</loc>
+    <loc>http://localhost:1313/posts/the-value-of-nothing/</loc>
     <lastmod>2024-10-09T08:55:33-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/goofy-contact-sales/</loc>
+    <loc>http://localhost:1313/posts/goofy-contact-sales/</loc>
     <lastmod>2024-10-09T08:47:09-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/yaclone-mtb/</loc>
+    <loc>http://localhost:1313/posts/yaclone-mtb/</loc>
     <lastmod>2024-10-09T08:44:33-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/decline-of-the-american-empire/</loc>
+    <loc>http://localhost:1313/posts/decline-of-the-american-empire/</loc>
     <lastmod>2024-10-09T08:23:09-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/wealth-gap-shrinking/</loc>
+    <loc>http://localhost:1313/posts/wealth-gap-shrinking/</loc>
     <lastmod>2024-10-09T08:17:48-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/best-language-for-ml-inference/</loc>
+    <loc>http://localhost:1313/posts/best-language-for-ml-inference/</loc>
     <lastmod>2024-10-09T08:14:44-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/celibacy-and-lust/</loc>
+    <loc>http://localhost:1313/posts/celibacy-and-lust/</loc>
     <lastmod>2024-10-07T17:22:33-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/ego-is-the-body/</loc>
+    <loc>http://localhost:1313/posts/ego-is-the-body/</loc>
     <lastmod>2024-10-07T14:10:16-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/high-value-men-and-women/</loc>
+    <loc>http://localhost:1313/posts/high-value-men-and-women/</loc>
     <lastmod>2024-10-07T14:03:10-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/the-mind-killer/</loc>
+    <loc>http://localhost:1313/posts/the-mind-killer/</loc>
     <lastmod>2024-10-02T19:52:21-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/usa-meritocracy/</loc>
+    <loc>http://localhost:1313/posts/usa-meritocracy/</loc>
     <lastmod>2024-10-02T19:49:00-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/function-of-the-brain/</loc>
+    <loc>http://localhost:1313/posts/function-of-the-brain/</loc>
     <lastmod>2024-09-29T20:26:20-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/nuclear-waste/</loc>
+    <loc>http://localhost:1313/posts/nuclear-waste/</loc>
     <lastmod>2024-09-28T17:30:22-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/commies-are-lame/</loc>
+    <loc>http://localhost:1313/posts/commies-are-lame/</loc>
     <lastmod>2024-09-28T17:26:10-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/afuera/</loc>
+    <loc>http://localhost:1313/posts/afuera/</loc>
     <lastmod>2024-09-28T17:22:17-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/bearish-on-vc/</loc>
+    <loc>http://localhost:1313/posts/bearish-on-vc/</loc>
     <lastmod>2024-09-28T17:20:12-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/im-a-reverse-engineer/</loc>
+    <loc>http://localhost:1313/posts/im-a-reverse-engineer/</loc>
     <lastmod>2024-09-27T21:34:01-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/zero-point-energy-lets-go/</loc>
+    <loc>http://localhost:1313/posts/zero-point-energy-lets-go/</loc>
     <lastmod>2024-09-27T20:38:34-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/homeschool-resources/</loc>
+    <loc>http://localhost:1313/posts/homeschool-resources/</loc>
     <lastmod>2024-09-27T12:21:34-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/say-no-to-drugs/</loc>
+    <loc>http://localhost:1313/posts/say-no-to-drugs/</loc>
     <lastmod>2024-09-24T23:37:48-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/service-to-self-is-service-to-all/</loc>
+    <loc>http://localhost:1313/posts/service-to-self-is-service-to-all/</loc>
     <lastmod>2024-09-24T23:13:49-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/delta-4-tech-ai-startup-idea/</loc>
+    <loc>http://localhost:1313/posts/delta-4-tech-ai-startup-idea/</loc>
     <lastmod>2024-09-20T15:35:53-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/meme-curriculum/</loc>
+    <loc>http://localhost:1313/posts/meme-curriculum/</loc>
     <lastmod>2024-09-19T22:09:24-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/unwavering-belief/</loc>
+    <loc>http://localhost:1313/posts/unwavering-belief/</loc>
     <lastmod>2024-09-15T15:47:23-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/mediocrity-in-software/</loc>
+    <loc>http://localhost:1313/posts/mediocrity-in-software/</loc>
     <lastmod>2024-09-12T14:56:11-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/keep-rolling/</loc>
+    <loc>http://localhost:1313/posts/keep-rolling/</loc>
     <lastmod>2024-09-12T11:41:52-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/real-questions/</loc>
+    <loc>http://localhost:1313/posts/real-questions/</loc>
     <lastmod>2024-09-10T11:11:49-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/a-million-dingboards/</loc>
+    <loc>http://localhost:1313/posts/a-million-dingboards/</loc>
     <lastmod>2024-09-03T13:39:01-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/ip-and-china/</loc>
+    <loc>http://localhost:1313/posts/ip-and-china/</loc>
     <lastmod>2024-09-03T13:29:28-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/early-church-resources/</loc>
+    <loc>http://localhost:1313/posts/early-church-resources/</loc>
     <lastmod>2024-09-01T19:41:16-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/be-mei-not-dei/</loc>
+    <loc>http://localhost:1313/posts/be-mei-not-dei/</loc>
     <lastmod>2024-08-27T15:24:23-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/make-a-channel/</loc>
+    <loc>http://localhost:1313/posts/make-a-channel/</loc>
     <lastmod>2024-08-27T14:03:31-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/logic-and-proof-from-scratch/</loc>
+    <loc>http://localhost:1313/posts/logic-and-proof-from-scratch/</loc>
     <lastmod>2024-08-27T14:00:12-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/idols-as-tools/</loc>
+    <loc>http://localhost:1313/posts/idols-as-tools/</loc>
     <lastmod>2024-08-23T14:20:08-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/operate-like-valve/</loc>
+    <loc>http://localhost:1313/posts/operate-like-valve/</loc>
     <lastmod>2024-08-23T13:57:22-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/naval-habits/</loc>
+    <loc>http://localhost:1313/posts/naval-habits/</loc>
     <lastmod>2024-08-22T14:18:34-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/minimalistic-research/</loc>
+    <loc>http://localhost:1313/posts/minimalistic-research/</loc>
     <lastmod>2024-08-21T15:32:26-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/see-markets/</loc>
+    <loc>http://localhost:1313/posts/see-markets/</loc>
     <lastmod>2024-08-21T15:30:57-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/hes-just-lucky/</loc>
+    <loc>http://localhost:1313/posts/hes-just-lucky/</loc>
     <lastmod>2024-08-21T15:29:44-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/dummies-listen-to-music/</loc>
+    <loc>http://localhost:1313/posts/dummies-listen-to-music/</loc>
     <lastmod>2024-08-19T20:34:25-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/best-software-engineers/</loc>
+    <loc>http://localhost:1313/posts/best-software-engineers/</loc>
     <lastmod>2024-08-15T17:08:47-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/deadrosesxyz-security-researcher/</loc>
+    <loc>http://localhost:1313/posts/deadrosesxyz-security-researcher/</loc>
     <lastmod>2024-08-12T17:52:14-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/delete-x/</loc>
+    <loc>http://localhost:1313/posts/delete-x/</loc>
     <lastmod>2024-08-12T17:18:49-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/build-crappy-robots/</loc>
+    <loc>http://localhost:1313/posts/build-crappy-robots/</loc>
     <lastmod>2024-08-07T13:13:52-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/accepting-the-universe/</loc>
+    <loc>http://localhost:1313/posts/accepting-the-universe/</loc>
     <lastmod>2024-08-06T23:57:33-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/christian-cope/</loc>
+    <loc>http://localhost:1313/posts/christian-cope/</loc>
     <lastmod>2024-08-06T21:42:56-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/xrp/</loc>
+    <loc>http://localhost:1313/posts/xrp/</loc>
     <lastmod>2024-08-05T18:47:59-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/tab/</loc>
+    <loc>http://localhost:1313/posts/tab/</loc>
     <lastmod>2024-08-01T10:25:57-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/life-tracker/</loc>
+    <loc>http://localhost:1313/posts/life-tracker/</loc>
     <lastmod>2024-07-30T18:18:01-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/money-links/</loc>
+    <loc>http://localhost:1313/posts/money-links/</loc>
     <lastmod>2024-07-29T18:18:51-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/mastery-of-nature/</loc>
+    <loc>http://localhost:1313/posts/mastery-of-nature/</loc>
     <lastmod>2024-07-22T21:29:28-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/two-skills/</loc>
+    <loc>http://localhost:1313/posts/two-skills/</loc>
     <lastmod>2024-07-22T20:46:04-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/fuck-waiting/</loc>
+    <loc>http://localhost:1313/posts/fuck-waiting/</loc>
     <lastmod>2024-07-22T20:29:06-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/stay-faceless/</loc>
+    <loc>http://localhost:1313/posts/stay-faceless/</loc>
     <lastmod>2024-07-22T20:05:30-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/say-yes-to-everything/</loc>
+    <loc>http://localhost:1313/posts/say-yes-to-everything/</loc>
     <lastmod>2024-07-22T20:03:03-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/become-dangerous/</loc>
+    <loc>http://localhost:1313/posts/become-dangerous/</loc>
     <lastmod>2024-07-22T09:21:24-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/parsec-clone/</loc>
+    <loc>http://localhost:1313/posts/parsec-clone/</loc>
     <lastmod>2024-07-22T07:37:41-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/consistency-builds-momentum/</loc>
+    <loc>http://localhost:1313/posts/consistency-builds-momentum/</loc>
     <lastmod>2024-07-21T19:26:07-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/em-physics/</loc>
+    <loc>http://localhost:1313/posts/em-physics/</loc>
     <lastmod>2024-07-21T18:06:20-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/talk/</loc>
+    <loc>http://localhost:1313/posts/talk/</loc>
     <lastmod>2024-07-21T09:50:55-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/istvan-csanady-cad-deep-dive/</loc>
+    <loc>http://localhost:1313/posts/istvan-csanady-cad-deep-dive/</loc>
     <lastmod>2024-07-20T23:12:11-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/3d-printer-company-resource/</loc>
+    <loc>http://localhost:1313/posts/3d-printer-company-resource/</loc>
     <lastmod>2024-07-20T21:52:33-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/enders-enterprise/</loc>
+    <loc>http://localhost:1313/posts/enders-enterprise/</loc>
     <lastmod>2024-07-20T20:38:47-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/how-to-kill-legacy-media/</loc>
+    <loc>http://localhost:1313/posts/how-to-kill-legacy-media/</loc>
     <lastmod>2024-07-20T19:56:29-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/trinity/</loc>
+    <loc>http://localhost:1313/posts/trinity/</loc>
     <lastmod>2024-07-20T00:07:34-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/cs-on-the-side/</loc>
+    <loc>http://localhost:1313/posts/cs-on-the-side/</loc>
     <lastmod>2024-07-19T16:34:07-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/soft-generation/</loc>
+    <loc>http://localhost:1313/posts/soft-generation/</loc>
     <lastmod>2024-07-14T21:16:25-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/new-google/</loc>
+    <loc>http://localhost:1313/posts/new-google/</loc>
     <lastmod>2024-07-11T17:41:17-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/arena-allocators-resources/</loc>
+    <loc>http://localhost:1313/posts/arena-allocators-resources/</loc>
     <lastmod>2024-07-07T16:40:14-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/time-immemorial/</loc>
+    <loc>http://localhost:1313/posts/time-immemorial/</loc>
     <lastmod>2024-07-07T16:30:29-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/become-machine-brained/</loc>
+    <loc>http://localhost:1313/posts/become-machine-brained/</loc>
     <lastmod>2024-07-03T15:16:03-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/the-real-stack/</loc>
+    <loc>http://localhost:1313/posts/the-real-stack/</loc>
     <lastmod>2024-07-03T15:09:54-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/consumerism-is-cancer/</loc>
+    <loc>http://localhost:1313/posts/consumerism-is-cancer/</loc>
     <lastmod>2024-07-01T14:32:22-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/kids-and-education/</loc>
+    <loc>http://localhost:1313/posts/kids-and-education/</loc>
     <lastmod>2024-07-01T13:49:52-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/git-workflow/</loc>
+    <loc>http://localhost:1313/posts/git-workflow/</loc>
     <lastmod>2024-06-28T13:51:58-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/dont-have-heros/</loc>
+    <loc>http://localhost:1313/posts/dont-have-heros/</loc>
     <lastmod>2024-06-28T11:35:55-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/simple-user-interfaces/</loc>
+    <loc>http://localhost:1313/posts/simple-user-interfaces/</loc>
     <lastmod>2024-06-27T09:07:18-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/learning-karpathy/</loc>
+    <loc>http://localhost:1313/posts/learning-karpathy/</loc>
     <lastmod>2024-06-26T12:56:57-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/music-dump/</loc>
+    <loc>http://localhost:1313/posts/music-dump/</loc>
     <lastmod>2024-06-25T10:26:55-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/ai-cad-app-idea/</loc>
+    <loc>http://localhost:1313/posts/ai-cad-app-idea/</loc>
     <lastmod>2024-06-23T18:26:11-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/cash-flow-is-king/</loc>
+    <loc>http://localhost:1313/posts/cash-flow-is-king/</loc>
     <lastmod>2024-06-14T08:51:37-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/why-raise/</loc>
+    <loc>http://localhost:1313/posts/why-raise/</loc>
     <lastmod>2024-06-12T14:22:57-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/deep-knowledge/</loc>
+    <loc>http://localhost:1313/posts/deep-knowledge/</loc>
     <lastmod>2024-06-11T20:42:11-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/nix-gui-install/</loc>
+    <loc>http://localhost:1313/posts/nix-gui-install/</loc>
     <lastmod>2024-06-11T20:37:20-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/i-can-do-it/</loc>
+    <loc>http://localhost:1313/posts/i-can-do-it/</loc>
     <lastmod>2024-06-10T09:53:13-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/code-quality/</loc>
+    <loc>http://localhost:1313/posts/code-quality/</loc>
     <lastmod>2024-06-10T09:39:36-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/tech-debt-meme/</loc>
+    <loc>http://localhost:1313/posts/tech-debt-meme/</loc>
     <lastmod>2024-06-10T09:33:01-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/maximize-learning/</loc>
+    <loc>http://localhost:1313/posts/maximize-learning/</loc>
     <lastmod>2024-06-10T09:22:31-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/simplicity-of-improvement/</loc>
+    <loc>http://localhost:1313/posts/simplicity-of-improvement/</loc>
     <lastmod>2024-06-10T09:21:07-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/chase-errors/</loc>
+    <loc>http://localhost:1313/posts/chase-errors/</loc>
     <lastmod>2024-06-10T09:17:13-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/christian-engineers/</loc>
+    <loc>http://localhost:1313/posts/christian-engineers/</loc>
     <lastmod>2024-06-08T21:01:51-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/the-right-way/</loc>
+    <loc>http://localhost:1313/posts/the-right-way/</loc>
     <lastmod>2024-06-08T15:11:15-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/educational-hypogamy/</loc>
+    <loc>http://localhost:1313/posts/educational-hypogamy/</loc>
     <lastmod>2024-06-08T14:59:26-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/serverless-meme/</loc>
+    <loc>http://localhost:1313/posts/serverless-meme/</loc>
     <lastmod>2024-06-07T10:20:23-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/books-to-read/</loc>
+    <loc>http://localhost:1313/posts/books-to-read/</loc>
     <lastmod>2024-06-06T20:11:16-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/new-vs-old-software/</loc>
+    <loc>http://localhost:1313/posts/new-vs-old-software/</loc>
     <lastmod>2024-06-06T11:55:45-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/inner-voice-vs-cerebration/</loc>
+    <loc>http://localhost:1313/posts/inner-voice-vs-cerebration/</loc>
     <lastmod>2024-06-01T09:39:40-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/simplify-tasks/</loc>
+    <loc>http://localhost:1313/posts/simplify-tasks/</loc>
     <lastmod>2024-05-31T14:59:24-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/on-constraints-and-creativity/</loc>
+    <loc>http://localhost:1313/posts/on-constraints-and-creativity/</loc>
     <lastmod>2024-05-31T14:55:09-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/truth-about-robotics/</loc>
+    <loc>http://localhost:1313/posts/truth-about-robotics/</loc>
     <lastmod>2024-05-31T12:56:13-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/science-is-a-method/</loc>
+    <loc>http://localhost:1313/posts/science-is-a-method/</loc>
     <lastmod>2024-05-31T08:26:39-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/learning-piano/</loc>
+    <loc>http://localhost:1313/posts/learning-piano/</loc>
     <lastmod>2024-05-30T21:36:23-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/hacking-as-a-hobby/</loc>
+    <loc>http://localhost:1313/posts/hacking-as-a-hobby/</loc>
     <lastmod>2024-05-26T15:30:16-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/golang/</loc>
+    <loc>http://localhost:1313/posts/golang/</loc>
     <lastmod>2024-05-26T15:27:47-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/openscad/</loc>
+    <loc>http://localhost:1313/posts/openscad/</loc>
     <lastmod>2024-05-24T17:44:51-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/smart-investors-diversify-less/</loc>
+    <loc>http://localhost:1313/posts/smart-investors-diversify-less/</loc>
     <lastmod>2024-05-24T11:41:06-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/abandon-your-ego/</loc>
+    <loc>http://localhost:1313/posts/abandon-your-ego/</loc>
     <lastmod>2024-05-23T16:26:40-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/billionares-and-machines/</loc>
+    <loc>http://localhost:1313/posts/billionares-and-machines/</loc>
     <lastmod>2024-05-23T15:51:44-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/terry-davis-nugget/</loc>
+    <loc>http://localhost:1313/posts/terry-davis-nugget/</loc>
     <lastmod>2024-05-23T10:59:53-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/increase-your-agency/</loc>
+    <loc>http://localhost:1313/posts/increase-your-agency/</loc>
     <lastmod>2024-05-23T10:43:03-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/linux-torvalds/</loc>
+    <loc>http://localhost:1313/posts/linux-torvalds/</loc>
     <lastmod>2024-05-23T10:36:24-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/alex-and-caesar/</loc>
+    <loc>http://localhost:1313/posts/alex-and-caesar/</loc>
     <lastmod>2024-05-20T19:29:42-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/how-can-i-learn-x/</loc>
+    <loc>http://localhost:1313/posts/how-can-i-learn-x/</loc>
     <lastmod>2024-05-20T10:07:15-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/open-competition-ai/</loc>
+    <loc>http://localhost:1313/posts/open-competition-ai/</loc>
     <lastmod>2024-05-19T21:17:19-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/kyc-is-broken/</loc>
+    <loc>http://localhost:1313/posts/kyc-is-broken/</loc>
     <lastmod>2024-05-19T21:07:33-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/learning-fundamentals/</loc>
+    <loc>http://localhost:1313/posts/learning-fundamentals/</loc>
     <lastmod>2024-05-19T21:02:42-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/automation-and-unemployment/</loc>
+    <loc>http://localhost:1313/posts/automation-and-unemployment/</loc>
     <lastmod>2024-05-19T20:58:39-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/no-you-could-not/</loc>
+    <loc>http://localhost:1313/posts/no-you-could-not/</loc>
     <lastmod>2024-05-19T19:34:02-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/math-links/</loc>
+    <loc>http://localhost:1313/posts/math-links/</loc>
     <lastmod>2024-05-17T15:18:33-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/build-in-private/</loc>
+    <loc>http://localhost:1313/build-in-private/</loc>
     <lastmod>2024-05-15T11:17:49-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/build-in-private/</loc>
+    <loc>http://localhost:1313/posts/build-in-private/</loc>
     <lastmod>2024-05-15T11:17:49-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/uninstall-tiktok/</loc>
+    <loc>http://localhost:1313/posts/uninstall-tiktok/</loc>
     <lastmod>2024-05-12T21:31:46-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/on-adhd/</loc>
+    <loc>http://localhost:1313/posts/on-adhd/</loc>
     <lastmod>2024-05-12T19:20:29-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/american-factory/</loc>
+    <loc>http://localhost:1313/posts/american-factory/</loc>
     <lastmod>2024-05-11T22:27:08-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/competence-without-assertiveness/</loc>
+    <loc>http://localhost:1313/posts/competence-without-assertiveness/</loc>
     <lastmod>2024-05-09T11:03:08-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/chinese-man-in-mirror/</loc>
+    <loc>http://localhost:1313/posts/chinese-man-in-mirror/</loc>
     <lastmod>2024-05-09T10:14:21-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/cs-students-hopeless/</loc>
+    <loc>http://localhost:1313/posts/cs-students-hopeless/</loc>
     <lastmod>2024-05-08T18:50:39-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/stop-being-a-loser/</loc>
+    <loc>http://localhost:1313/posts/stop-being-a-loser/</loc>
     <lastmod>2024-05-08T17:26:36-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/act-on-press/</loc>
+    <loc>http://localhost:1313/posts/act-on-press/</loc>
     <lastmod>2024-05-08T12:42:30-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1984-game-dev/</loc>
+    <loc>http://localhost:1313/posts/1984-game-dev/</loc>
     <lastmod>2024-05-04T11:07:22-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/technology-and-social-movements/</loc>
+    <loc>http://localhost:1313/posts/technology-and-social-movements/</loc>
     <lastmod>2024-05-02T19:58:05-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/climate-crisis-scam/</loc>
+    <loc>http://localhost:1313/posts/climate-crisis-scam/</loc>
     <lastmod>2024-05-02T19:06:55-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/ai-regulations/</loc>
+    <loc>http://localhost:1313/posts/ai-regulations/</loc>
     <lastmod>2024-05-02T18:47:56-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/ai-doomerism/</loc>
+    <loc>http://localhost:1313/posts/ai-doomerism/</loc>
     <lastmod>2024-05-02T17:50:29-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/discounts-and-sales-tax/</loc>
+    <loc>http://localhost:1313/posts/discounts-and-sales-tax/</loc>
     <lastmod>2024-05-01T10:09:07-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/naval-ideas/</loc>
+    <loc>http://localhost:1313/posts/naval-ideas/</loc>
     <lastmod>2024-04-28T20:39:47-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/computer-science/</loc>
+    <loc>http://localhost:1313/tags/computer-science/</loc>
     <lastmod>2024-04-17T18:49:18-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/logic-gates/</loc>
+    <loc>http://localhost:1313/posts/logic-gates/</loc>
     <lastmod>2024-04-17T18:49:18-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/nand2tetris/</loc>
+    <loc>http://localhost:1313/tags/nand2tetris/</loc>
     <lastmod>2024-04-17T18:49:18-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-04-17T18:49:18-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
     <lastmod>2024-04-10T16:05:05-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-08-25T21:30:04+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
