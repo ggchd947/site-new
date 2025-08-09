@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ggchd</title>
-    <link>https://example.org/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on ggchd</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Apr 2024 18:49:18 -0700</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer Science</title>
-      <link>https://example.org/tags/computer-science/</link>
+      <link>http://localhost:1313/tags/computer-science/</link>
       <pubDate>Wed, 17 Apr 2024 18:49:18 -0700</pubDate>
-      <guid>https://example.org/tags/computer-science/</guid>
+      <guid>http://localhost:1313/tags/computer-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Nand2tetris</title>
-      <link>https://example.org/tags/nand2tetris/</link>
+      <link>http://localhost:1313/tags/nand2tetris/</link>
       <pubDate>Wed, 17 Apr 2024 18:49:18 -0700</pubDate>
-      <guid>https://example.org/tags/nand2tetris/</guid>
+      <guid>http://localhost:1313/tags/nand2tetris/</guid>
       <description></description>
     </item>
   </channel>
