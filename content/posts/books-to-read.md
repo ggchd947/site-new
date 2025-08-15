@@ -2,6 +2,11 @@
 title = 'Books to Read'
 date = 2024-06-06T20:11:16-07:00
 +++
+
+- [Have Mercy On Me A Sinner: The Hard Truths About Historical Christianity & Why It Matters](https://www.amazon.com/Have-Mercy-Sinner-Historical-Christianity/dp/B0FJMMMPB8)
+
+---
+<!--
 ### Books to read in my 20s
 - The Bible
 - The Divine Comedy - Dante Alighieri (c.1321)
@@ -28,7 +33,7 @@ date = 2024-06-06T20:11:16-07:00
 ### Wishlist
 - Zero to One - Peter Thiel (Copped physical copy)
 - On The Shortness of Life - Seneca
-- The Almanack of Naval Ravikant - Eric Jorgenson
+- ~The Almanack of Naval Ravikant - Eric Jorgenson~
 - Ego is the Enemy - Ryan Holiday
 - Several Short Sentences on Writing - Verlyn Klinkenborg
 - On Writing Well - William Zinsser
@@ -53,3 +58,4 @@ date = 2024-06-06T20:11:16-07:00
 - Attack on Titan
 - Kenichi: The Mightiest Disciple
 - Yu Yu Hakusho
+-->
