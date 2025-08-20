@@ -5,11 +5,11 @@ date = 2024-06-06T20:11:16-07:00
 
 - [Have Mercy On Me A Sinner: The Hard Truths About Historical Christianity & Why It Matters](https://www.amazon.com/Have-Mercy-Sinner-Historical-Christianity/dp/B0FJMMMPB8)
 - [The Ethics of Beauty](https://churchsupplies.jordanville.org/collections/books-media/products/the-ethics-of-beauty)
-- On Acquisition of the Holy Spirit
+- ~On Acquisition of the Holy Spirit~
 - Theosis: The True Purpose of Human Life
 - Wounded by Love
-- **The Path to Salvation, A Concise Outline of Christian Ascesis**
-- **The Spiritual Life And How to Be Attuned to It**
+- ~**The Path to Salvation, A Concise Outline of Christian Ascesis**~
+- ~**The Spiritual Life And How to Be Attuned to It**~
 - [**The Lives of the Great Desert Fathers**](https://churchsupplies.jordanville.org/collections/books-media/products/the-lives-of-the-great-desert-fathers)
 - [**The Sayings of the Desert Fathers**](https://churchsupplies.jordanville.org/products/the-sayings-of-the-desert-fathers)
 - On True Christianity - Volume 1-6
