@@ -54,3 +54,5 @@ date = 2024-04-10T16:05:05-07:00
 **2025, July - Finished reading Orthodox Christian Parenting - Cultivating God's Creation**
 
 **2025, August - Finished reading Preaching Another Christ: An Orthodox View of Evangelicalism**
+
+**2025, August - Finished reading The Place of Blessed Augustine in the Orthodox Church**

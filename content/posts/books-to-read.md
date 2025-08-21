@@ -15,10 +15,17 @@ date = 2024-06-06T20:11:16-07:00
 - On True Christianity - Volume 1-6
 - The Dialogues
 - The Life of Holy Father Gregory Palamas
+- [The Blessed Surgeon: The Life of Saint Luke, Archbishop of Simferopol](https://store.ancientfaith.com/the-blessed-surgeon-the-life-of-saint-luke-archbishop-of-simferopol/)
+- [Saint Justin Popovic, The New Philosopher: His Life and Service](https://store.ancientfaith.com/saint-justin-popovic-the-new-philosopher-his-life-and-service/)
 - Hexaemeron
 - On Social Justice - St. Basil the Great
 - On Christian Ethics - St. Basil the Great
+- [Journey to Reality: Sacramental Life in a Secular Age](https://store.ancientfaith.com/journey-to-reality-sacramental-life-in-a-secular-age/)
+- 
+- 
 
+### Cautious
+- [Waiting and Dating: An Orthodox Christian Guide for Navigating Singleness and Godly Relationships](https://store.ancientfaith.com/waiting-and-dating-an-orthodox-christian-guide-for-navigating-singleness-and-godly-relationships/)
 ---
 <!--
 ### Books to read in my 20s
