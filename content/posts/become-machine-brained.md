@@ -16,3 +16,7 @@ I guess my best advice for becoming machine brained is to hang around others who
 Anything that gets you building around others that know what they're doing.
 
 Oh, and steal a McMaster-Carr catalog.
+
+### @imai_keiji
+- get a PDF of [Shigley's](https://dl.icdst.org/pdfs/files3/ad7608c18e740b0e402c025fa3187de8.pdf) and read it. Refer to [Roark's](https://jackson.engr.tamu.edu/wp-content/uploads/sites/229/2023/03/Roarks-formulas-for-stress-and-strain.pdf) for anything complicated
+- follow the free CAD fundamentals learning pathway for onshape and buy a 3D printer (prusa or bambu)
