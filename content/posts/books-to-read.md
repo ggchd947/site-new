@@ -21,8 +21,6 @@ date = 2024-06-06T20:11:16-07:00
 - On Social Justice - St. Basil the Great
 - On Christian Ethics - St. Basil the Great
 - [Journey to Reality: Sacramental Life in a Secular Age](https://store.ancientfaith.com/journey-to-reality-sacramental-life-in-a-secular-age/)
-- 
-- 
 
 ### Cautious
 - [Waiting and Dating: An Orthodox Christian Guide for Navigating Singleness and Godly Relationships](https://store.ancientfaith.com/waiting-and-dating-an-orthodox-christian-guide-for-navigating-singleness-and-godly-relationships/)
