@@ -2,7 +2,7 @@
 title = "He's Just Lucky"
 date = 2024-08-21T15:29:44-07:00
 +++
-{{< tweet user="l3d1c" id=1826204162624782388 >}}
+{{< x user="l3d1c" id=1826204162624782388 >}}
 
 "he's just lucky"
 

@@ -11,7 +11,7 @@ Today, climate change is no longer called climate change. To make this "problem"
 
 ### The Current Climate Crisis Narrative
 This tweet by 24yo climate activist Clover Hogan demonstrates perfectly what the majority of "climate activists" or people "concerned" about climate change believe:
-{{< tweet user="cloverhogan" id=1783429995852964162 >}}
+{{< x user="cloverhogan" id=1783429995852964162 >}}
 
 The purpose of the Climate Crisis Narrative is to justify authoritarian control over agriculture, transportation, industry, and speech.
 
@@ -22,5 +22,5 @@ They don't want a solution. They want power.
 
 ### Don't Believe Me?
 She said it best here:
-{{< tweet user="cloverhogan" id=1783430004497408382 >}}
+{{< x user="cloverhogan" id=1783430004497408382 >}}
 Translation: "our goal is not to actually solve climate change but rather to install global communism where we are in power"

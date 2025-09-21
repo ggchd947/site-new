@@ -6,7 +6,7 @@ date = 2024-09-20T15:35:53-07:00
 In short, [Delta 4 theory](https://www.seedtoscale.com/blog/kunal-shahs-delta-4-theory-of-successful-startups) is a theory about how much your product improves the customer experience over what the alternative provides, whether it be another product or an old way of doing things.
 
 ## The Problem
-{{< tweet user="tsarnick" id=1835113831435321799 >}}
+{{< x user="tsarnick" id=1835113831435321799 >}}
 If $100B is the cost to train the future frontier models, **you are a unicorn if you can help save 0.1% of the cost.**
 
 ## The Solution
@@ -66,7 +66,7 @@ There's already HUGE interest in this:
 ![interest](/img/dump/customer_int.png)
 
 ### Nous Research
-{{< tweet user="NousResearch" id=1828121648383566270 >}}
+{{< x user="NousResearch" id=1828121648383566270 >}}
 
 ### bittensor
 - Has a currency called [$TAO](https://www.coingecko.com/en/coins/bittensor) which pays "seeders" with $3.4B market cap

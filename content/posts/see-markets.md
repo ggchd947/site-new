@@ -16,7 +16,7 @@ You have to think of it as an engineering problem. There is an event that you ar
 My repos folder on my afternoon laptop has like 2-3 things right now that I could launch and run a successful startup off of. Honestly after dingboard I realized how easy it was and kind of stopped feeling the urgency. It's so easy that I can do it anytime I decide to.
 
 This took me 3 hours on a Saturday. I could blow out every single 8 digit VTuber company with this. It wouldn't even be that hard.
-{{< tweet user="yacineMTB" id=1825306403826806889 >}}
+{{< x user="yacineMTB" id=1825306403826806889 >}}
 
 We are kind of in a dot com internet moment right now. Except we already have the internet. It's on steroids.
 

@@ -4,7 +4,7 @@ date = 2024-05-04T11:07:22-07:00
 +++
 
 ### Shahid Kamal Ahmad
-I'm archiving this [tweet](https://twitter.com/shahidkamal/status/1785051290768134391) by Shahid Kamal Ahmad as I don't have or use twitter/X.
+I'm archiving this [x](https://x.com/shahidkamal/status/1785051290768134391) by Shahid Kamal Ahmad as I don't have or use twitter/X.
 
 His 10 reasons for why 1984 to 1986 were the most magical years of his time in video games really show the difference between productivity programmers back then had and today, and what their environment looked like. I want to learn and apply these reasons.
 

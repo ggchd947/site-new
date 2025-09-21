@@ -10,4 +10,4 @@ date = 2024-05-20T10:07:15-07:00
 
 the answer is the same to all of them
 
-{{< tweet user="VideoReacts" id=1588969055763193856 >}}
+{{< x user="VideoReacts" id=1588969055763193856 >}}

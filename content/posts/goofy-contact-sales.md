@@ -8,7 +8,7 @@ Companies put that when they either want to price discriminate (which should be 
 
 Don't do business with losers, just say no.
 
-{{< tweet user=BhaskerSriHarsh id=1836929941654417861 >}}
+{{< x user=BhaskerSriHarsh id=1836929941654417861 >}}
 
 ---
 If SpaceX can price rocket launches online, so can B2B SaaS

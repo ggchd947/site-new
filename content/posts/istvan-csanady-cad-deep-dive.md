@@ -2,7 +2,7 @@
 title = "István Csanády CAD Deep Dive"
 date = 2024-07-20T23:12:11-07:00
 +++
-{{< tweet user="istvan_csanady" id="1804582455116214616" >}}
+{{< x user="istvan_csanady" id="1804582455116214616" >}}
 
 ## Why is your CAD slow?
 So why is your CAD slow? Because it’s not using all your CPU cores, right?

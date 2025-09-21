@@ -31,4 +31,4 @@ Find designs in the wild and try to recreate them in openscad. Builds technical 
 #### TODO
 - [Soma Cube](https://en.wikipedia.org/wiki/Soma_cube)
 - [507 Mechanical Movements](https://507movements.com/)
-- {{< tweet user="yacineMTB" id=1793871628574564391 >}}
+- {{< x user="yacineMTB" id=1793871628574564391 >}}

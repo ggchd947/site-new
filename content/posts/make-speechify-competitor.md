@@ -2,7 +2,7 @@
 title = 'Make Speechify Competitor'
 date = 2024-10-25T20:17:24-07:00
 +++
-{{< tweet user="yacineMTB" id=1840118847526846508 >}}
+{{< x user="yacineMTB" id=1840118847526846508 >}}
 
 ### Things to improve
 - I don't appreciate getting conversion hacked, I'm going to make sure to cancel yearly on the three day free trial *because* I know I'm being conversion hacked. Autists really hate it.

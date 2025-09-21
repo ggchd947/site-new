@@ -8,4 +8,4 @@ maybe call it tab, because a piece of tech is not your friend
 
 according to [friend.com/product.html](friend.com/product.html) friend needs to connect to WiFi constantly to work, consider using sim card + LTE setup for the tab device
 
-{{< tweet user="yacineMTB" id=1818999600772001851 >}}
+{{< x user="yacineMTB" id=1818999600772001851 >}}

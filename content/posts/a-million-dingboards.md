@@ -2,7 +2,7 @@
 title = 'A Million Dingboards'
 date = 2024-09-03T13:39:01-07:00
 +++
-{{< tweet user=imadr_ id=1830957811133563229 >}}
+{{< x user=imadr_ id=1830957811133563229 >}}
 
 ### @yacineMTB
 it's very amusing to watch people do this and then realize "damn this is actually not that easy"
