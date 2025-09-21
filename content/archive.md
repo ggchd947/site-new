@@ -61,4 +61,4 @@ date = 2024-04-10T16:05:05-07:00
 
 **2025, September - Finished reading Theosis: The True Purpose of Human Life**
 
-
+**2025, September - Finished reading Disputations with Pyrrhus of Our Father Among The Saints Maximus The Confessor**
