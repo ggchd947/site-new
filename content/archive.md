@@ -58,3 +58,7 @@ date = 2024-04-10T16:05:05-07:00
 **2025, August - Finished reading The Place of Blessed Augustine in the Orthodox Church**
 
 **2025, August - Finished reading How To Live A Holy Life**
+
+**2025, September - Finished reading Theosis: The True Purpose of Human Life**
+
+
