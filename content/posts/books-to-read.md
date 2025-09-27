@@ -21,6 +21,10 @@ date = 2024-06-06T20:11:16-07:00
 - On Social Justice - St. Basil the Great
 - On Christian Ethics - St. Basil the Great
 - [Journey to Reality: Sacramental Life in a Secular Age](https://store.ancientfaith.com/journey-to-reality-sacramental-life-in-a-secular-age/)
+- [I Know a Man in Christ](https://churchsupplies.jordanville.org/products/i-know-a-man-in-christ)
+- Mystagogy of the Holy Spirit by Saint Photius the Great
+- Apodictic Treatises on the Procession of the Holy Spirit by Saint Gregory Palamas
+- Christianity and Classical Culture by Jaroslav Pelikan
 
 ### Cautious
 - [Waiting and Dating: An Orthodox Christian Guide for Navigating Singleness and Godly Relationships](https://store.ancientfaith.com/waiting-and-dating-an-orthodox-christian-guide-for-navigating-singleness-and-godly-relationships/)
