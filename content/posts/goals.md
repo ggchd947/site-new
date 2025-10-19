@@ -19,7 +19,7 @@ date = 2025-08-14T09:56:38-07:00
 7. Final step, bug bounty programs on [Immunefi](https://immunefi.com/bug-bounty/) and [Remedy](https://r.xyz/bug-bounty/programs)
 
 ### Self-study Arithmetic to Calculus
-0. ST(p) Mathematics 1 & 2
+0. ~ST(p) Mathematics 1~ & 2
 1. Practical Algebra: A Self-Teaching Guide, Second Edition
 2. Modern Algebra Structure and Method Book 1
 3. Modern Algebra and Trigonometry Book 2

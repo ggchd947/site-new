@@ -6,7 +6,7 @@ date = 2024-06-06T20:11:16-07:00
 - [Have Mercy On Me A Sinner: The Hard Truths About Historical Christianity & Why It Matters](https://www.amazon.com/Have-Mercy-Sinner-Historical-Christianity/dp/B0FJMMMPB8)
 - [The Ethics of Beauty](https://churchsupplies.jordanville.org/collections/books-media/products/the-ethics-of-beauty)
 - ~On Acquisition of the Holy Spirit~
-- Theosis: The True Purpose of Human Life
+- ~Theosis: The True Purpose of Human Life~
 - Wounded by Love
 - ~**The Path to Salvation, A Concise Outline of Christian Ascesis**~
 - ~**The Spiritual Life And How to Be Attuned to It**~
