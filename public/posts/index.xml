@@ -6,8 +6,15 @@
     <description>Recent content in Posts on ggchd</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Sep 2025 21:34:44 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 18:11:06 -0700</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Meme Curriculum</title>
+      <link>https://example.org/posts/my-meme-curriculum/</link>
+      <pubDate>Mon, 20 Oct 2025 18:11:06 -0700</pubDate>
+      <guid>https://example.org/posts/my-meme-curriculum/</guid>
+      <description>&lt;p&gt;Order: security.html -&amp;gt; software.html&lt;/p&gt;&#xA;&lt;h2 id=&#34;softwarehtml&#34;&gt;software.html&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;First 30 episodes of Handmade Hero&lt;/li&gt;&#xA;&lt;li&gt;Modern Architecture &amp;amp; PLAI.org (from Algo section)&lt;/li&gt;&#xA;&lt;li&gt;Optimized Local Software (CMU 15-455 Database Systems)&lt;/li&gt;&#xA;&lt;li&gt;Optimized Distributed Software (CMU 15-721 Advanced Database Systems)&lt;/li&gt;&#xA;&lt;li&gt;Database Query Optimization (CMU 15-799)&lt;/li&gt;&#xA;&lt;li&gt;Algorithmic Problem Solving (USACO) OR &lt;strong&gt;Elixir/Phoenix/money.html&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
     <item>
       <title>Good Habits</title>
       <link>https://example.org/posts/habits/</link>
