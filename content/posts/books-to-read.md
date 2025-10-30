@@ -25,6 +25,8 @@ date = 2024-06-06T20:11:16-07:00
 - Mystagogy of the Holy Spirit by Saint Photius the Great
 - Apodictic Treatises on the Procession of the Holy Spirit by Saint Gregory Palamas
 - Christianity and Classical Culture by Jaroslav Pelikan
+- [Healing the Soul: Saint Porphyrios as a Model for Our Lives](https://churchsupplies.jordanville.org/products/healing-the-soul-saint-porphyrios-as-a-model-for-our-lives)
+- [Love in Christ or Meta-Patristic Agapology](https://churchsupplies.jordanville.org/products/love-in-christ-or-meta-patristic-agapology)
 
 ### Cautious
 - [Waiting and Dating: An Orthodox Christian Guide for Navigating Singleness and Godly Relationships](https://store.ancientfaith.com/waiting-and-dating-an-orthodox-christian-guide-for-navigating-singleness-and-godly-relationships/)
