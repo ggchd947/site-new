@@ -14,7 +14,7 @@ date = 2024-06-06T20:11:16-07:00
 - [**The Sayings of the Desert Fathers**](https://churchsupplies.jordanville.org/products/the-sayings-of-the-desert-fathers)
 - On True Christianity - Volume 1-6
 - The Dialogues
-- The Life of Holy Father Gregory Palamas
+- [The Life of Holy Father Gregory Palamas](https://churchsupplies.jordanville.org/products/the-life-of-holy-father-gregory-palamas)
 - [The Blessed Surgeon: The Life of Saint Luke, Archbishop of Simferopol](https://store.ancientfaith.com/the-blessed-surgeon-the-life-of-saint-luke-archbishop-of-simferopol/)
 - [Saint Justin Popovic, The New Philosopher: His Life and Service](https://store.ancientfaith.com/saint-justin-popovic-the-new-philosopher-his-life-and-service/)
 - Hexaemeron
