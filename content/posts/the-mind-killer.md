@@ -6,4 +6,4 @@ capital is the mind killer, the engineering killer.
 
 you think you aren't lazy? that you won't just spend money to solve the problem instead of engineering out of it?
 
-capital is the kind killer.
+capital is the mind killer.
