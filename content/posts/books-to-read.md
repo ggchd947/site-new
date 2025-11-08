@@ -3,6 +3,7 @@ title = 'Books to Read'
 date = 2024-06-06T20:11:16-07:00
 +++
 
+- [The Eschatological Visions of The Blessed: End Times Prophecies of Elders & Saints of the Orthodox Church - 2nd Edition](https://eschatonvigil.org/product/the-eschatological-visions-of-the-blessed-second-edition/)
 - [Have Mercy On Me A Sinner: The Hard Truths About Historical Christianity & Why It Matters](https://www.amazon.com/Have-Mercy-Sinner-Historical-Christianity/dp/B0FJMMMPB8)
 - [The Ethics of Beauty](https://churchsupplies.jordanville.org/collections/books-media/products/the-ethics-of-beauty)
 - ~On Acquisition of the Holy Spirit~
@@ -27,6 +28,14 @@ date = 2024-06-06T20:11:16-07:00
 - Christianity and Classical Culture by Jaroslav Pelikan
 - [Healing the Soul: Saint Porphyrios as a Model for Our Lives](https://churchsupplies.jordanville.org/products/healing-the-soul-saint-porphyrios-as-a-model-for-our-lives)
 - [Love in Christ or Meta-Patristic Agapology](https://churchsupplies.jordanville.org/products/love-in-christ-or-meta-patristic-agapology)
+
+### West/East
+- ~Rock & Sand~
+- Aristotle East & West
+- The Filioque
+- [Keys Over the Christian World](https://annas-archive.org/md5/05e8f88b7597cbc32eed63d330351554)
+- [The Rise and Fall of the Papacy and Fellowship With Christ's Suffering](https://www.amazon.com/Rise-Fall-Papacy-Orthodox-Perspective-ebook/dp/B0CNMLW481)
+- [Two Paths: Orthodoxy & Catholicism: Rome's Claims of Papal Supremacy in the Light of Orthodox Christian Teaching](https://www.amazon.com/dp/B08P5GSZV6)
 
 ### Cautious
 - [Waiting and Dating: An Orthodox Christian Guide for Navigating Singleness and Godly Relationships](https://store.ancientfaith.com/waiting-and-dating-an-orthodox-christian-guide-for-navigating-singleness-and-godly-relationships/)
