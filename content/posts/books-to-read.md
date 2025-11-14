@@ -37,6 +37,10 @@ date = 2024-06-06T20:11:16-07:00
 - [The Rise and Fall of the Papacy and Fellowship With Christ's Suffering](https://www.amazon.com/Rise-Fall-Papacy-Orthodox-Perspective-ebook/dp/B0CNMLW481)
 - [Two Paths: Orthodoxy & Catholicism: Rome's Claims of Papal Supremacy in the Light of Orthodox Christian Teaching](https://www.amazon.com/dp/B08P5GSZV6)
 
+### Transhumanism, Singularity, Technology
+- [Return to Babylon: From Adam to Antichrist](https://www.amazon.com/dp/B0FRY4XMG1)
+- [Against the Machine: On the Unmaking of Humanity](https://www.amazon.com/Against-Machine-Unmaking-Paul-Kingsnorth/dp/0593850637)
+
 ### Cautious
 - [Waiting and Dating: An Orthodox Christian Guide for Navigating Singleness and Godly Relationships](https://store.ancientfaith.com/waiting-and-dating-an-orthodox-christian-guide-for-navigating-singleness-and-godly-relationships/)
 ---
