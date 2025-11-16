@@ -3,6 +3,7 @@ title = 'Books to Read'
 date = 2024-06-06T20:11:16-07:00
 +++
 
+- [Wade in the River: The Story of the African Christian Faith](https://www.amazon.com/Wade-River-Story-African-Christian/dp/0971636508)
 - [The Eschatological Visions of The Blessed: End Times Prophecies of Elders & Saints of the Orthodox Church - 2nd Edition](https://eschatonvigil.org/product/the-eschatological-visions-of-the-blessed-second-edition/)
 - [Have Mercy On Me A Sinner: The Hard Truths About Historical Christianity & Why It Matters](https://www.amazon.com/Have-Mercy-Sinner-Historical-Christianity/dp/B0FJMMMPB8)
 - [The Ethics of Beauty](https://churchsupplies.jordanville.org/collections/books-media/products/the-ethics-of-beauty)
