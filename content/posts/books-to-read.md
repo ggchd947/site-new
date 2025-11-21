@@ -36,14 +36,14 @@ date = 2024-06-06T20:11:16-07:00
 
 ### West/East
 - ~Rock & Sand~
-- Aristotle East & West
-- The Filioque
-- [Keys Over the Christian World](https://annas-archive.org/md5/05e8f88b7597cbc32eed63d330351554)
-- [The Rise and Fall of the Papacy and Fellowship With Christ's Suffering](https://www.amazon.com/Rise-Fall-Papacy-Orthodox-Perspective-ebook/dp/B0CNMLW481)
-- [Two Paths: Orthodoxy & Catholicism: Rome's Claims of Papal Supremacy in the Light of Orthodox Christian Teaching](https://www.amazon.com/dp/B08P5GSZV6)
+- [Aristotle East & West (kindle ed.)](https://www.amazon.com/Aristotle-East-West-Metaphysics-Christendom-ebook/dp/B01LYX3P5P)
+- ~The Filioque~
+- ~Keys Over the Christian World~
+- ~The Rise and Fall of the Papacy and Fellowship With Christ's Suffering~
+- ~Two Paths: Orthodoxy & Catholicism: Rome's Claims of Papal Supremacy in the Light of Orthodox Christian Teaching~
 
 ### Transhumanism, Singularity, Technology
-- [Return to Babylon: From Adam to Antichrist](https://www.amazon.com/dp/B0FRY4XMG1)
+- [Return to Babylon: From Adam to Antichrist (kindle ed.)](https://www.amazon.com/dp/B0FRY4XMG1)
 - [Against the Machine: On the Unmaking of Humanity](https://www.amazon.com/Against-Machine-Unmaking-Paul-Kingsnorth/dp/0593850637)
 
 ### Cautious
