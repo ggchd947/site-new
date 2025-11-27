@@ -70,3 +70,5 @@ date = 2024-04-10T16:05:05-07:00
 **2025, November - Finished reading Confronting the Devil: Magic & Occult**
 
 **2025, November - Finished reading Unseen Warfare**
+
+**2025, November - Finished reading On Acquisition of the Holy Spirit**
