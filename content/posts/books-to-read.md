@@ -17,7 +17,7 @@ date = 2024-06-06T20:11:16-07:00
 - ~**The Path to Salvation, A Concise Outline of Christian Ascesis**~
 - ~**The Spiritual Life And How to Be Attuned to It**~
 - [**The Lives of the Great Desert Fathers**](https://churchsupplies.jordanville.org/collections/books-media/products/the-lives-of-the-great-desert-fathers)
-- [**The Sayings of the Desert Fathers**](https://churchsupplies.jordanville.org/products/the-sayings-of-the-desert-fathers)
+- ~[**The Sayings of the Desert Fathers**](https://churchsupplies.jordanville.org/products/the-sayings-of-the-desert-fathers)~
 - On True Christianity - Volume 1-6
 - The Dialogues
 - [The Life of Holy Father Gregory Palamas](https://churchsupplies.jordanville.org/products/the-life-of-holy-father-gregory-palamas)
