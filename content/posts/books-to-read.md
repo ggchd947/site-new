@@ -7,9 +7,9 @@ date = 2024-06-06T20:11:16-07:00
 - [Wade in the River: The Story of the African Christian Faith](https://www.amazon.com/Wade-River-Story-African-Christian/dp/0971636508)
 
 ### Eschatology
+- [Prophecies of Saint Paisios: Visions of World War III](https://eschatonvigil.org/product/prophecies-of-saint-paisios/)
 - [The Eschatological Visions of The Blessed: End Times Prophecies of Elders & Saints of the Orthodox Church - 2nd Edition](https://eschatonvigil.org/product/the-eschatological-visions-of-the-blessed-second-edition/)
 - [Elders on the End Times](https://eschatonvigil.org/product/elders-on-the-end-times/)
-- [Prophecies of Saint Paisios: Visions of World War III](https://eschatonvigil.org/product/prophecies-of-saint-paisios/)
 - [Russia Before The Second Coming](https://eschatonvigil.org/product/russia-before-the-second-coming/)
 
 ### Books to Read
