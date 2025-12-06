@@ -6,6 +6,11 @@ date = 2024-06-06T20:11:16-07:00
 - [An Unbroken Circle: Linking Ancient African Christianity to the African-American Experience]()
 - [Wade in the River: The Story of the African Christian Faith](https://www.amazon.com/Wade-River-Story-African-Christian/dp/0971636508)
 
+### Introduction to Philokalia
+- [A Beginner's Introduction to the Philokalia](https://www.amazon.com/Beginners-Introduction-Philokalia-Anthony-Coniaris-ebook/dp/B09M4CQL1H/)
+- [Philokalia: The Bible of Orthodox Spirituality](https://www.amazon.com/dp/B004Y76PPO)
+- Talk to Spiritual Father to read The Philokalia after Baptism.
+
 ### Eschatology
 - [Prophecies of Saint Paisios: Visions of World War III](https://eschatonvigil.org/product/prophecies-of-saint-paisios/)
 - [The Eschatological Visions of The Blessed: End Times Prophecies of Elders & Saints of the Orthodox Church - 2nd Edition](https://eschatonvigil.org/product/the-eschatological-visions-of-the-blessed-second-edition/)
