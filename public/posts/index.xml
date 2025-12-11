@@ -6,8 +6,15 @@
     <description>Recent content in Posts on ggchd</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Dec 2025 17:04:13 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 19:30:27 -0800</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zero to Tinycorp</title>
+      <link>https://example.org/posts/zero-to-tinycorp/</link>
+      <pubDate>Wed, 10 Dec 2025 19:30:27 -0800</pubDate>
+      <guid>https://example.org/posts/zero-to-tinycorp/</guid>
+      <description>&lt;h3 id=&#34;pathway-to-acquire-skillz-can-be-done-concurrently&#34;&gt;Pathway to acquire skillz (Can be done concurrently)&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;math.html&lt;/li&gt;&#xA;&lt;li&gt;software.html&lt;/li&gt;&#xA;&lt;li&gt;ai.html&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://tinygrad.org/#worktiny&#34;&gt;solve tinygrad bounties&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;get hired.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
     <item>
       <title>St. Joseph the Hesychast Reading List</title>
       <link>https://example.org/posts/hesychasts-reading-list/</link>
