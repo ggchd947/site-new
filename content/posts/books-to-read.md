@@ -7,7 +7,7 @@ date = 2024-06-06T20:11:16-07:00
 - [Wade in the River: The Story of the African Christian Faith](https://www.amazon.com/Wade-River-Story-African-Christian/dp/0971636508)
 
 ### Introduction to Philokalia
-- [A Beginner's Introduction to the Philokalia](https://www.amazon.com/Beginners-Introduction-Philokalia-Anthony-Coniaris-ebook/dp/B09M4CQL1H/)
+- ~[A Beginner's Introduction to the Philokalia](https://www.amazon.com/Beginners-Introduction-Philokalia-Anthony-Coniaris-ebook/dp/B09M4CQL1H/)~
 - [Philokalia: The Bible of Orthodox Spirituality](https://www.amazon.com/dp/B004Y76PPO)
 - Talk to Spiritual Father to read The Philokalia after Baptism.
 
@@ -16,6 +16,10 @@ date = 2024-06-06T20:11:16-07:00
 - [The Eschatological Visions of The Blessed: End Times Prophecies of Elders & Saints of the Orthodox Church - 2nd Edition](https://eschatonvigil.org/product/the-eschatological-visions-of-the-blessed-second-edition/)
 - [Elders on the End Times](https://eschatonvigil.org/product/elders-on-the-end-times/)
 - [Russia Before The Second Coming](https://eschatonvigil.org/product/russia-before-the-second-coming/)
+
+### Science
+- Against Method (Paul Feyerabend)
+- [The Hunt for Zero Point: Inside the Classified World of Antigravity Technology](https://www.amazon.com/Hunt-Zero-Point-Classified-Antigravity/dp/0767906284/)
 
 ### Books to Read
 - [Have Mercy On Me A Sinner: The Hard Truths About Historical Christianity & Why It Matters](https://www.amazon.com/Have-Mercy-Sinner-Historical-Christianity/dp/B0FJMMMPB8)
