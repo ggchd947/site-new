@@ -34,6 +34,9 @@ date = 2025-08-14T09:56:38-07:00
 * Minimize stress while awake
 
 ### math.html as of commit 434a10d1fe21f04a2b063e95e298f98f238dc1d1 (except mechanics, everything is done concurrently)
+
+***Note: ALL ARE DONE CONCURRENTLY (INCLUDING MECHANICS)***
+
 0. Mechanics
     * ST(p) Mathematics 1 & 2
     * Mechanics 1, 2, & 3
