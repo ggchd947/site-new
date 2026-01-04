@@ -56,6 +56,7 @@ date = 2024-06-06T20:11:16-07:00
 - ~Two Paths: Orthodoxy & Catholicism: Rome's Claims of Papal Supremacy in the Light of Orthodox Christian Teaching~
 
 ### Transhumanism, Singularity, Technology
+- [The Technological Society](https://www.amazon.com/Technological-Society-Jacques-Ellul/dp/0394703901)
 - [Return to Babylon: From Adam to Antichrist (kindle ed.)](https://www.amazon.com/dp/B0FRY4XMG1)
 - [Against the Machine: On the Unmaking of Humanity](https://www.amazon.com/Against-Machine-Unmaking-Paul-Kingsnorth/dp/0593850637)
 
