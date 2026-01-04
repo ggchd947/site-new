@@ -22,6 +22,7 @@ date = 2024-06-06T20:11:16-07:00
 - [The Hunt for Zero Point: Inside the Classified World of Antigravity Technology](https://www.amazon.com/Hunt-Zero-Point-Classified-Antigravity/dp/0767906284/)
 
 ### Books to Read
+- [The Theology of Leadership](https://www.amazon.com/Theology-Leadership-Servant-Sacrifice-Shepherd-ebook/dp/B0FCP467CZ)
 - [Have Mercy On Me A Sinner: The Hard Truths About Historical Christianity & Why It Matters](https://www.amazon.com/Have-Mercy-Sinner-Historical-Christianity/dp/B0FJMMMPB8)
 - [The Ethics of Beauty](https://churchsupplies.jordanville.org/collections/books-media/products/the-ethics-of-beauty)
 - ~On Acquisition of the Holy Spirit~
