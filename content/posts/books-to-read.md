@@ -17,6 +17,11 @@ date = 2024-06-06T20:11:16-07:00
 - [Elders on the End Times](https://eschatonvigil.org/product/elders-on-the-end-times/)
 - [Russia Before The Second Coming](https://eschatonvigil.org/product/russia-before-the-second-coming/)
 
+### Scientism
+- Laboratory Life The Construction of Scientific Facts
+- ~The Structure of Scientific Revolutions~
+- ~[Cosmos & Transcendence](https://www.amazon.com/Cosmos-Transcendence-Breaking-Through-Scientistic/dp/1735967785)~
+
 ### Science
 - Against Method (Paul Feyerabend)
 - [The Hunt for Zero Point: Inside the Classified World of Antigravity Technology](https://www.amazon.com/Hunt-Zero-Point-Classified-Antigravity/dp/0767906284/)
