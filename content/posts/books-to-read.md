@@ -2,6 +2,9 @@
 title = 'Books to Read'
 date = 2024-06-06T20:11:16-07:00
 +++
+### Black American Literature
+- [The Fire Next Time](https://www.amazon.com/Fire-Next-Time-James-Baldwin/dp/067974472X)
+
 ### Black/African Christian History
 - [An Unbroken Circle: Linking Ancient African Christianity to the African-American Experience]()
 - [Wade in the River: The Story of the African Christian Faith](https://www.amazon.com/Wade-River-Story-African-Christian/dp/0971636508)
@@ -45,6 +48,7 @@ date = 2024-06-06T20:11:16-07:00
 - Hexaemeron
 - On Social Justice - St. Basil the Great
 - On Christian Ethics - St. Basil the Great
+- [Poverty, Society and Philanthropy in the Late Mediaeval Greek World](https://www.amazon.com/Poverty-Society-Philanthropy-Mediaeval-Religious/dp/0892414014)
 - [Journey to Reality: Sacramental Life in a Secular Age](https://store.ancientfaith.com/journey-to-reality-sacramental-life-in-a-secular-age/)
 - [I Know a Man in Christ](https://churchsupplies.jordanville.org/products/i-know-a-man-in-christ)
 - Mystagogy of the Holy Spirit by Saint Photius the Great
