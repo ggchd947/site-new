@@ -24,6 +24,7 @@ date = 2024-06-06T20:11:16-07:00
 - ~Laboratory Life The Construction of Scientific Facts~
 - ~The Structure of Scientific Revolutions~
 - ~[Cosmos & Transcendence](https://www.amazon.com/Cosmos-Transcendence-Breaking-Through-Scientistic/dp/1735967785)~
+- [When Harry Became Sally: Responding to the Transgender Moment]
 
 ### Science
 - Against Method (Paul Feyerabend)
