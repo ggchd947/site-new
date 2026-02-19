@@ -27,8 +27,9 @@ date = 2024-06-06T20:11:16-07:00
 - [When Harry Became Sally: Responding to the Transgender Moment]
 
 ### Science
-- Against Method (Paul Feyerabend)
+- ~Against Method (Paul Feyerabend)~
 - [The Hunt for Zero Point: Inside the Classified World of Antigravity Technology](https://www.amazon.com/Hunt-Zero-Point-Classified-Antigravity/dp/0767906284/)
+- [The Light Ages: The Surprising Story of Medieval Science](https://www.amazon.com/Light-Ages-Surprising-Medieval-Science/dp/132400293X)
 
 ### Books to Read
 - ~[Thinking Orthodox: Understanding and Acquiring the Orthodox Christian Mind](https://www.amazon.com/Thinking-Orthodox-Understanding-Acquiring-Christian-ebook/dp/B08NMR5FXB/)~
