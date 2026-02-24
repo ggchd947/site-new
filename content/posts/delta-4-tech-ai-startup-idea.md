@@ -18,6 +18,9 @@ Load the inference model based on demand, monitor CUDA, perform inference when n
 
 If we incentivize with pay per use, there will be more seeders than leechers.
 
+## Update 2/2026:
+[This company](https://elixir-lang.org/blog/2021/01/13/orchestrating-computer-vision-with-elixir-at-v7/) is literally doing what I'm trying to do but with CV. Using Elixir to orchestrate Python nodes and managing large amounts of data to carry out ML jobs. Learn from this.
+
 ---
 **Pay in USD, direct deposit, twice a month.**
 
@@ -38,6 +41,10 @@ If we incentivize with pay per use, there will be more seeders than leechers.
 **Less uptime is okay, delay or resubmit job**
 
 **For training more latency is fine**
+
+**Client and infrastructure written in Python**
+
+**Marketplace/Website written in Elixir/Phoenix**
 
 *NOTE: whatever you make work for training you get for free for inference.*
 *NOTE: https://youtu.be/Gm0t-kAsHuY?t=16407 - beluga.ai charge $0.50 an hour*
@@ -105,7 +112,7 @@ There's already HUGE interest in this:
 
 Buy beluga.ai and beluga.com
 
-Maybe make website look similar to this? - https://www.inference.net/
+Maybe make website look similar to this? (use wayback machine) - https://www.inference.net/
 
 [Skills like programming massively parallel processors](https://www.amazon.com/dp/0323912311) is a must. Contribute to [tinygrad](https://tinygrad.org/) to have some experience with A.I frameworks. Go through [ai.html](https://learnaifromscratch.github.io/ai.html) and [fromthetensor](https://github.com/jla524/fromthetensor).
 
